@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    border: 2px solid #123;
+    padding: 0px;
+    height: 50px;
+    text-align: center;
+}
+td{
+    border: 2px solid #123;
+    padding: 0px;
+    height: 100px;
+    text-align: center;
+}
+.vertical-text{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    white-space: nowrap;
+    font-size: 30px;
+    letter-spacing: 20px;
+}
+
+
+
